@@ -1,0 +1,14 @@
+D:\projects\File5Open\File5Open\bin\Debug\net8.0\File5Open.exe
+D:\projects\File5Open\File5Open\bin\Debug\net8.0\File5Open.deps.json
+D:\projects\File5Open\File5Open\bin\Debug\net8.0\File5Open.runtimeconfig.json
+D:\projects\File5Open\File5Open\bin\Debug\net8.0\File5Open.dll
+D:\projects\File5Open\File5Open\bin\Debug\net8.0\File5Open.pdb
+D:\projects\File5Open\File5Open\obj\Debug\net8.0\File5Open.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\File5Open\File5Open\obj\Debug\net8.0\File5Open.AssemblyInfoInputs.cache
+D:\projects\File5Open\File5Open\obj\Debug\net8.0\File5Open.AssemblyInfo.cs
+D:\projects\File5Open\File5Open\obj\Debug\net8.0\File5Open.csproj.CoreCompileInputs.cache
+D:\projects\File5Open\File5Open\obj\Debug\net8.0\File5Open.dll
+D:\projects\File5Open\File5Open\obj\Debug\net8.0\refint\File5Open.dll
+D:\projects\File5Open\File5Open\obj\Debug\net8.0\File5Open.pdb
+D:\projects\File5Open\File5Open\obj\Debug\net8.0\File5Open.genruntimeconfig.cache
+D:\projects\File5Open\File5Open\obj\Debug\net8.0\ref\File5Open.dll
